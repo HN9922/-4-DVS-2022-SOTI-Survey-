@@ -1,0 +1,37 @@
+tools family,tool,users,"like this tool 
+“very much”",placement
+non-digital,physical materials,38,84%,Top 10
+JS,Svelte,50,80%,Top 10
+non-digital,pen & paper,324,75%,Top 10
+JS,P5,43,70%,Top 10
+Other,Tableau,582,69%,Top 10
+R,R,368,65%,Top 10
+R,ggplot2,322,63%,Top 10
+Other,Flourish + Canva,140,63%,Top 10
+Other,RAWGraphs,149,62%,Top 10
+JS,D3,258,62%,Top 10
+Adobe,Illustrator,326,60%,Middle
+Other,Datawrapper,135,60%,Middle
+JS,Observable,95,58%,Middle
+JS,React,78,56%,Middle
+Adobe,Figma,245,56%,Middle
+JS,Vue,29,55%,Middle
+Python,Python,313,52%,Middle
+Microsoft,PowerBI,383,50%,Middle
+Python,plotly,180,49%,Middle
+JS,Vega,36,47%,Middle
+Other,WebComponents,34,47%,Middle
+JS,Mapbox,116,47%,Middle
+JS,Leaflet,85,45%,Middle
+GIS,QGIS,127,43%,Middle
+Other,Gephi,62,40%,Middle
+Microsoft,Excel,827,37%,Bottom 10
+JS,Highcharts,51,35%,Bottom 10
+Other,Qlik,46,35%,Bottom 10
+JS,WebGL,46,35%,Bottom 10
+GIS,ArcGIS,129,34%,Bottom 10
+Microsoft,PowerPoint,544,31%,Bottom 10
+Google,Google Sheets,358,30%,Bottom 10
+Other,Canvas,108,29%,Bottom 10
+Google,Data Studio,134,28%,Bottom 10
+Google,Looker,34,26%,Bottom 10
